@@ -1,5 +1,5 @@
 
-How to Uninstall windows 11?
+# How to Uninstall windows 11?
 
 [![how to uninstall windows 11](redd.png)](https://icncomputer.com/how-to-uninstall-windows-11/)
 
